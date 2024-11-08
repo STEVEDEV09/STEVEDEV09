@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @STEVEDEV09
+- 👋 Hi, I’m @Devansh Chauhan
 - 👀 I’m interested in ...Programing,hacking and other computer activity
 - 🌱 I’m currently learning ...programing 
-- 💞️ I’m looking to collaborate on ...cyber security team 
+- 💞️ I’m looking to collaborate on ...cyber security team and ai devlopers
 - 📫 How to reach me ...mail me on devanshchauhan464@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...i am only 17 year;;;
